@@ -90,6 +90,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Deployed with  [![Netlify Status](https://api.netlify.com/api/v1/badges/d7ad6d6f-10f1-4210-a5e3-a7670a669177/deploy-status)](https://app.netlify.com/sites/flamboyant-lewin/deploys)
+## 💫 Deployed with  [![Netlify Status](https://api.netlify.com/api/v1/badges/d7ad6d6f-10f1-4210-a5e3-a7670a669177/deploy-status)](https://app.netlify.com/sites/flamboyant-lewin/deploys) [![Greenkeeper badge](https://badges.greenkeeper.io/marcustanx/gatsby-ecommerce-cms.svg)](https://greenkeeper.io/)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
